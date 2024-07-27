@@ -7,6 +7,7 @@ class character
             System.out.println(a + "");
             printAtoZ((char)(a +1));
         }
+        
                
     }
     public static void main(String[]args)
